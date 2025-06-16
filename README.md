@@ -46,14 +46,33 @@
 
 <p align="center">
   <!-- Main stats card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Amit-Kumar-Jaiswal&show_icons=true&theme=dracula&bg_color=00000000" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Amit-Kumar-Jaiswal&show_icons=true&theme=dracula&bg_color=00000000"
     alt="GitHub Stats" />
+
   <!-- Top languages card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Amit-Kumar-Jaiswal&layout=compact&theme=dracula&bg_color=00000000" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Amit-Kumar-Jaiswal&layout=compact&theme=dracula&bg_color=00000000"
     alt="Top Languages" />
+
+  <!-- Last commit badge -->
+  <img
+    src="https://img.shields.io/github/last-commit/Amit-Kumar-Jaiswal/Amit-Kumar-Jaiswal?style=flat-square"
+    alt="Last Commit" />
+
+  <!-- Commits since release tag or date -->
+  <img
+    src="https://img.shields.io/github/commits-since/Amit-Kumar-Jaiswal/latest?style=flat-square"
+    alt="Commits since latest release" />
 </p>
+
+<!-- Optional: GitHub activity graph -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-Kumar-Jaiswal&theme=dracula"
+    alt="Activity Graph"/>
+</p>
+
 
 
 
